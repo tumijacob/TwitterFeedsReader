@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 31 22:43:13 SAST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015d-9a63-6de8-00001510d3a0 
+on database directory memory:/home/matome/workspace/user-statistcs/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/matome/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-8u131-b11-2ubuntu1.16.04.2-b11
+user.dir=/home/matome/workspace/user-statistcs
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-87-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
