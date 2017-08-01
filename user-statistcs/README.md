@@ -35,7 +35,7 @@ locate for the class called main and open the file by right clicking and, Run as
 **[3] Running the project and Logging in**:
 
 ```
-There is a script called data.sql that gets run on start up. The script contains user data.
+There is a script called import.sql that gets run on start up. The script contains user data.
 To get to the web client or frontend, go to your local browser and type http://localhost:8080
 The default usernames and passwords you can use are:
 admin && admin
