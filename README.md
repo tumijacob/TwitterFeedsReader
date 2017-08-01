@@ -23,7 +23,7 @@ The application makes use of the spring tool suite which can be found here https
 **[1] Clone the repository**:
 
 ```
-
+git clone https://github.com/tumijacob/TwitterFeedsReader.git
 ```
 
 **[2] Open the project and hit the run button**:
